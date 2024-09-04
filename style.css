@@ -1,0 +1,7 @@
+.gradetotal{
+    display: grid;
+    grid-template-columns: repeat(3,33.3%);
+    grid-template-rows: repeat (13,auto);
+    gap: 0px;
+    height: 1000px;
+}
