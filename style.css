@@ -1,7 +1,83 @@
-.gradetotal{
-    display: grid;
-    grid-template-columns: repeat(3,33.3%);
-    grid-template-rows: repeat (13,auto);
-    gap: 0px;
-    height: 1000px;
+.vai{
+    background-color: whitesmoke;
+}
+.diusuario{
+    border: none;
+    color: red;
+    background-color:rgb(214, 213, 213);
+    margin-left: 5%;
+    width: 85%;
+}
+.menor{
+    margin-left: 40%;
+    margin-top: 10%;
+    border: 2px;
+    border-color: black;
+    height: 10%;
+    width: 17%;
+    background-color: white;
+}
+.fundo{
+    margin-left: 40%;
+    margin-top: 10%;
+    border: 2px;
+    border-color: black;
+    height: 20%;
+    width: 30%;
+    background-color: black;
+}
+.x{
+    margin-left: 92%;
+    border: none;
+    background-color: white;
+}
+.letronaz{
+    margin-left: 5%;
+    color: blue;
+}
+.textin{
+    margin-left: 5%;
+    font-size: small; 
+}
+.textin2{
+    margin-right: 5%;
+    font-size: small;   
+}
+.exibir{
+    margin-left: 55%;
+}
+.t2{
+    margin-top: 70%;
+}
+.invi{
+    background-color: white;
+    width: 100%;
+    height: 20px;
+}
+.invi2{
+    background-color: white;
+    width: 100%;
+    height: 10px;
+}
+.azulmedi{
+    background-color: blue;
+    width: 90%;
+    height: 30px;
+    margin-right: 5%;
+    margin-left: 5%;
+    border: none;
+    color: white;
+
+}
+.ladin1{
+    margin-left: 17%;
+}
+.ladin2{
+    margin-left: 22%;
+}
+.ladin3{
+    margin-left: 23%;
+}
+.azule{
+    color: rgb(57, 57, 212);
 }
