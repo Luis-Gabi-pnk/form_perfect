@@ -5,17 +5,29 @@
     border: none;
     color: red;
     background-color:rgb(214, 213, 213);
-    margin-left: 5%;
-    width: 85%;
+    margin-left: 10%;
+    width: 80%;
+    height: 30px;
 }
 .menor{
     margin-left: 40%;
     margin-top: 10%;
     border: 2px;
     border-color: black;
-    height: 10%;
-    width: 17%;
+    height: 420px;
+    width: 20%;
     background-color: white;
+    box-shadow: 5px 5px 5px rgb(19, 18, 18);
+}
+.menor2{
+    margin-left: 40%;
+    margin-top: 10%;
+    border: 2px;
+    border-color: black;
+    height: 470px;
+    width: 20%;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(19, 18, 18);
 }
 .fundo{
     margin-left: 40%;
@@ -31,12 +43,15 @@
     border: none;
     background-color: white;
 }
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .letronaz{
-    margin-left: 5%;
+    margin-left: 10%;
     color: blue;
 }
 .textin{
-    margin-left: 5%;
+    margin-left: 10%;
     font-size: small; 
 }
 .textin2{
@@ -44,7 +59,7 @@
     font-size: small;   
 }
 .exibir{
-    margin-left: 55%;
+    margin-left: 50%;
 }
 .t2{
     margin-top: 70%;
@@ -61,10 +76,10 @@
 }
 .azulmedi{
     background-color: blue;
-    width: 90%;
+    width: 80%;
     height: 30px;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
     border: none;
     color: white;
 
